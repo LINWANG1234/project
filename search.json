@@ -1,86 +1,131 @@
 [
   {
-    "objectID": "reports/slides/example.html#references",
-    "href": "reports/slides/example.html#references",
-    "title": "My Presentation",
-    "section": "References",
-    "text": "References\n\n\n\n\n\n\nWickham, Hadley, Romain François, Lionel Henry, Kirill Müller, and Davis Vaughan. 2023. Dplyr: A Grammar of Data Manipulation. https://CRAN.R-project.org/package=dplyr."
-  },
-  {
-    "objectID": "reports/presentations.html",
-    "href": "reports/presentations.html",
-    "title": "Presentations",
-    "section": "",
-    "text": "Slide deck\n\n\n\n\n\n\nJan 1, 2021\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "reports/presentations.html#latest-presentations",
-    "href": "reports/presentations.html#latest-presentations",
-    "title": "Presentations",
-    "section": "",
-    "text": "Slide deck\n\n\n\n\n\n\nJan 1, 2021\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "README",
-    "section": "",
-    "text": "Include an abstract-style summary of your project here which includes the research area, rationale, aims, and findings."
-  },
-  {
-    "objectID": "index.html#project-title",
-    "href": "index.html#project-title",
-    "title": "README",
-    "section": "",
-    "text": "Include an abstract-style summary of your project here which includes the research area, rationale, aims, and findings."
-  },
-  {
-    "objectID": "index.html#reproduce",
-    "href": "index.html#reproduce",
-    "title": "README",
-    "section": "Reproduce",
-    "text": "Reproduce\n\nInclude a step-by-step guide to reproduce your project here. This should include a list of dependencies and instructions on how to run the project."
-  },
-  {
     "objectID": "reports/article.html#data",
     "href": "reports/article.html#data",
     "title": "Article",
     "section": "Data",
-    "text": "Data"
+    "text": "Data",
+    "crumbs": [
+      "Reports",
+      "Article"
+    ]
   },
   {
     "objectID": "reports/article.html#analysis",
     "href": "reports/article.html#analysis",
     "title": "Article",
     "section": "Analysis",
-    "text": "Analysis"
+    "text": "Analysis",
+    "crumbs": [
+      "Reports",
+      "Article"
+    ]
   },
   {
     "objectID": "reports/prospectus.html",
     "href": "reports/prospectus.html",
     "title": "Prospectus",
     "section": "",
-    "text": "This section introduces the topic of the prospectus, its relevance, and specific research question(s) or hypothesis(es) that will be addressed.\n\n\nThis section summarizes previous research related to the topic and identifies gaps that the current study aims to address. It is important to provide a comprehensive review of the literature to demonstrate the significance of the research question and the potential contributions of the study. The literature review should conclude with a clear statement of the research question or hypothesis that the study aims to address."
+    "text": "In the realm of code-switching research, the wide array of methodologies and datasets utilized underscores a critical gap necessitating the development of a standardized framework. This framework is imperative to enable comprehensive analysis across diverse linguistic contexts. This study endeavors to bridge this gap by proposing a systematic approach to code-switching analysis, integrating linguistic features, contextual variables, and emotional expressions. Leveraging insights gleaned from seminal works such as those by S. Lee and Wang (2015), G. Lee et al. (2017), Li, Yu, and Fung (2012), Jose et al. (2020) and Parafita Couto and Gullberg (2019), our research aims to meticulously evaluate existing methodologies, pinpoint their limitations, and ultimately propose a unified framework for code-switching analysis.\nAdopting a multidisciplinary perspective, our study seeks to deepen our understanding of code-switching phenomena by scrutinizing patterns, frequencies, and socio-linguistic determinants influencing code-switching behavior across a spectrum of language pairs and contextual settings. By establishing a methodological bedrock, our research endeavors to enhance the comparability and generalizability of findings, thus propelling forward theoretical insights into bilingual language processing and communication dynamics.\nFurthermore, our proposed framework holds promise in guiding language teaching practices, informing language policy development, and shaping communication strategies in multilingual societies. By elucidating the intricate dynamics of code-switching, our study aims to contribute meaningfully to both academic discourse and practical applications in the realm of language and communication.\n\n\n\n\n\n\nThrough this process, I learned the importance of critically reviewing existing literature to identify gaps and areas for further investigation. It highlighted the significance of formulating clear research questions and objectives to guide the study effectively. Additionally, I gained a deeper understanding of the complexities involved in code-switching research and the interdisciplinary nature of addressing such phenomena.\n\n\n\n\n\nThe most challenging aspect was synthesizing information from multiple sources and integrating them into a coherent research statement. Balancing the need for specificity with the broader context of the research area required careful consideration. Meanwhile, formulating the research question and objectives was more straightforward once the gap in the literature was identified.\n\n\n\n\n\nI consulted academic databases such as Google Scholar, PubMed, and JSTOR to access peer-reviewed articles related to code-switching research. Additionally, I referred to conference proceedings and relevant books to gather diverse perspectives on the topic.\n\n\n\n\n\nOne concern is ensuring the feasibility and practicality of implementing the proposed research objectives. Addressing potential methodological challenges and resource constraints will be crucial in moving forward with the study. Additionally, considering the evolving nature of language use and technology, I wonder about the adaptability of the proposed framework over time.\n\n\n\n\n\nTo move forward, I need to refine the research statement further based on feedback and suggestions from peers or mentors. Also, conducting a more comprehensive literature review to ensure all relevant studies are considered would strengthen the foundation of the research. Furthermore, developing a detailed research plan outlining specific methodologies, data collection strategies, and analysis techniques will be essential for the next steps in the research process.",
+    "crumbs": [
+      "Reports",
+      "Prospectus"
+    ]
   },
   {
-    "objectID": "reports/prospectus.html#literature-review",
-    "href": "reports/prospectus.html#literature-review",
+    "objectID": "reports/prospectus.html#research-statement-draft",
+    "href": "reports/prospectus.html#research-statement-draft",
     "title": "Prospectus",
     "section": "",
-    "text": "This section summarizes previous research related to the topic and identifies gaps that the current study aims to address. It is important to provide a comprehensive review of the literature to demonstrate the significance of the research question and the potential contributions of the study. The literature review should conclude with a clear statement of the research question or hypothesis that the study aims to address."
+    "text": "In the realm of code-switching research, the wide array of methodologies and datasets utilized underscores a critical gap necessitating the development of a standardized framework. This framework is imperative to enable comprehensive analysis across diverse linguistic contexts. This study endeavors to bridge this gap by proposing a systematic approach to code-switching analysis, integrating linguistic features, contextual variables, and emotional expressions. Leveraging insights gleaned from seminal works such as those by S. Lee and Wang (2015), G. Lee et al. (2017), Li, Yu, and Fung (2012), Jose et al. (2020) and Parafita Couto and Gullberg (2019), our research aims to meticulously evaluate existing methodologies, pinpoint their limitations, and ultimately propose a unified framework for code-switching analysis.\nAdopting a multidisciplinary perspective, our study seeks to deepen our understanding of code-switching phenomena by scrutinizing patterns, frequencies, and socio-linguistic determinants influencing code-switching behavior across a spectrum of language pairs and contextual settings. By establishing a methodological bedrock, our research endeavors to enhance the comparability and generalizability of findings, thus propelling forward theoretical insights into bilingual language processing and communication dynamics.\nFurthermore, our proposed framework holds promise in guiding language teaching practices, informing language policy development, and shaping communication strategies in multilingual societies. By elucidating the intricate dynamics of code-switching, our study aims to contribute meaningfully to both academic discourse and practical applications in the realm of language and communication.",
+    "crumbs": [
+      "Reports",
+      "Prospectus"
+    ]
+  },
+  {
+    "objectID": "reports/prospectus.html#self-assessment",
+    "href": "reports/prospectus.html#self-assessment",
+    "title": "Prospectus",
+    "section": "",
+    "text": "Through this process, I learned the importance of critically reviewing existing literature to identify gaps and areas for further investigation. It highlighted the significance of formulating clear research questions and objectives to guide the study effectively. Additionally, I gained a deeper understanding of the complexities involved in code-switching research and the interdisciplinary nature of addressing such phenomena.\n\n\n\n\n\nThe most challenging aspect was synthesizing information from multiple sources and integrating them into a coherent research statement. Balancing the need for specificity with the broader context of the research area required careful consideration. Meanwhile, formulating the research question and objectives was more straightforward once the gap in the literature was identified.\n\n\n\n\n\nI consulted academic databases such as Google Scholar, PubMed, and JSTOR to access peer-reviewed articles related to code-switching research. Additionally, I referred to conference proceedings and relevant books to gather diverse perspectives on the topic.\n\n\n\n\n\nOne concern is ensuring the feasibility and practicality of implementing the proposed research objectives. Addressing potential methodological challenges and resource constraints will be crucial in moving forward with the study. Additionally, considering the evolving nature of language use and technology, I wonder about the adaptability of the proposed framework over time.\n\n\n\n\n\nTo move forward, I need to refine the research statement further based on feedback and suggestions from peers or mentors. Also, conducting a more comprehensive literature review to ensure all relevant studies are considered would strengthen the foundation of the research. Furthermore, developing a detailed research plan outlining specific methodologies, data collection strategies, and analysis techniques will be essential for the next steps in the research process.",
+    "crumbs": [
+      "Reports",
+      "Prospectus"
+    ]
   },
   {
     "objectID": "reports/prospectus.html#data-preparation",
     "href": "reports/prospectus.html#data-preparation",
     "title": "Prospectus",
     "section": "Data preparation",
-    "text": "Data preparation\nThis section describes the process of acquiring, organizing, and enriching the data that will be used to address the research question or hypothesis. It should include a detailed description of the data sources, the process of collecting and cleaning the data, and any additional data enrichment steps that will be taken to prepare the data for analysis."
+    "text": "Data preparation\nThis section describes the process of acquiring, organizing, and enriching the data that will be used to address the research question or hypothesis. It should include a detailed description of the data sources, the process of collecting and cleaning the data, and any additional data enrichment steps that will be taken to prepare the data for analysis.",
+    "crumbs": [
+      "Reports",
+      "Prospectus"
+    ]
   },
   {
     "objectID": "reports/prospectus.html#data-analysis",
     "href": "reports/prospectus.html#data-analysis",
     "title": "Prospectus",
     "section": "Data analysis",
-    "text": "Data analysis\nThis section describes the feature selection and engineering, analysis techniques, and evaluation process that will be used to address the research question or hypothesis. It should include a detailed description of the features that will be used in the analysis, the specific analysis techniques that will be applied, and the process of evaluating the results."
+    "text": "Data analysis\nThis section describes the feature selection and engineering, analysis techniques, and evaluation process that will be used to address the research question or hypothesis. It should include a detailed description of the features that will be used in the analysis, the specific analysis techniques that will be applied, and the process of evaluating the results.",
+    "crumbs": [
+      "Reports",
+      "Prospectus"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "README",
+    "section": "",
+    "text": "Include an abstract-style summary of your project here which includes the research area, rationale, aims, and findings.",
+    "crumbs": [
+      "README"
+    ]
+  },
+  {
+    "objectID": "index.html#project-title",
+    "href": "index.html#project-title",
+    "title": "README",
+    "section": "",
+    "text": "Include an abstract-style summary of your project here which includes the research area, rationale, aims, and findings.",
+    "crumbs": [
+      "README"
+    ]
+  },
+  {
+    "objectID": "index.html#reproduce",
+    "href": "index.html#reproduce",
+    "title": "README",
+    "section": "Reproduce",
+    "text": "Reproduce\n\nInclude a step-by-step guide to reproduce your project here. This should include a list of dependencies and instructions on how to run the project.",
+    "crumbs": [
+      "README"
+    ]
+  },
+  {
+    "objectID": "reports/presentations.html",
+    "href": "reports/presentations.html",
+    "title": "Presentations",
+    "section": "",
+    "text": "Slide deck\n\n\n\n\n\nJan 1, 2021\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Reports",
+      "Presentations"
+    ]
+  },
+  {
+    "objectID": "reports/presentations.html#latest-presentations",
+    "href": "reports/presentations.html#latest-presentations",
+    "title": "Presentations",
+    "section": "",
+    "text": "Slide deck\n\n\n\n\n\nJan 1, 2021\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Reports",
+      "Presentations"
+    ]
   }
 ]
